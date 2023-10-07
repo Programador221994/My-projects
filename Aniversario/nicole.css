@@ -1,0 +1,96 @@
+body{
+  font-family: 'Dancing Script';
+  background-color: #FFC0CB;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.title{
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 0;
+}
+
+.sobre-container{
+  border: 18px solid #FFC0CB;
+  box-shadow: 0px 5px 10px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  width: 350px;
+  margin: 0 auto;
+}
+
+.sobre-box{
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.sobre-box img{
+  width: 340px;
+  border-radius: 20px;
+}
+
+.tocame-text{
+  position: absolute;
+  top: 110px;
+  left: 125px;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.heart-icon{
+  height: 400px;
+}
+
+.heart-container{
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+
+.carta-container{
+  background-color: white;
+  width: 1000px;
+  border-radius: 20px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.description{
+  font-family: 'Roboto';
+  font-size: 20px;
+  line-height: 36px;
+}
+
+.info{
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 40px;
+}
+
+.aniversario{
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.music{
+  text-align: center;
+}
+
+.sobre-container2{
+  margin-bottom: 20px;
+}
